@@ -1,2 +1,179 @@
-•	• Chacon, S. and Straub, B. Pro Git. Apress. 
-•	• Loeliger, J. and McCullough, M. Version control with Git. O’Reilly. 
+  GNU nano 7.1                                                                                     bibliografia.txt                                                                                     Modified
+ Chacon, S. and Straub, B. Pro Git. Apress.
+• Loeliger, J. and McCullough, M. Version control with Git. O’Reilly.
+• Scott Chacon and Ben Straub. Pro Git. Apress.
+• Ryan Hodson. Ry’s Git Tutorial. Smashwords (2014)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G Help          ^O Write Out     ^W Where Is      ^K Cut           ^T Execute       ^C Location      M-U Undo         M-A Set Mark     M-] To Bracket   M-Q Previous     ^B Back          ^◂ Prev Word
+^X Exit          ^R Read File     ^\ Replace       ^U Paste         ^J Justify       ^/ Go To Line    M-E Redo         M-6 Copy         ^Q Where Was     M-W Next         ^F Forward       ^▸ Next Word
+ Chacon, S. and Straub, B. Pro Git. Apress. 
+• Loeliger, J. and McCullough, M. Version control with Git. O’Reilly. 
+• Scott Chacon and Ben Straub. Pro Git. Apress. 
+• Ryan Hodson. Ry’s Git Tutorial. Smashwords (2014) 
+
+  GNU nano 7.1                                                                                     bibliografia.txt                                                                                     Modified
+ Chacon, S. and Straub, B. Pro Git. Apress.
+• Loeliger, J. and McCullough, M. Version control with Git. O’Reilly.
+• Scott Chacon and Ben Straub. Pro Git. Apress.
+• Ryan Hodson. Ry’s Git Tutorial. Smashwords (2014)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G Help          ^O Write Out     ^W Where Is      ^K Cut           ^T Execute       ^C Location      M-U Undo         M-A Set Mark     M-] To Bracket   M-Q Previous     ^B Back          ^◂ Prev Word
+^X Exit          ^R Read File     ^\ Replace       ^U Paste         ^J Justify       ^/ Go To Line    M-E Redo         M-6 Copy         ^Q Where Was     M-W Next         ^F Forward       ^▸ Next Word
+  GNU nano 7.1                                                                                     bibliografia.txt                                                                                     Modified
+ Chacon, S. and Straub, B. Pro Git. Apress.
+• Loeliger, J. and McCullough, M. Version control with Git. O’Reilly.
+• Scott Chacon and Ben Straub. Pro Git. Apress.
+• Ryan Hodson. Ry’s Git Tutorial. Smashwords (2014)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G Help          ^O Write Out     ^W Where Is      ^K Cut           ^T Execute       ^C Location      M-U Undo         M-A Set Mark     M-] To Bracket   M-Q Previous     ^B Back          ^◂ Prev Word
+^X Exit          ^R Read File     ^\ Replace       ^U Paste         ^J Justify       ^/ Go To Line    M-E Redo         M-6 Copy         ^Q Where Was     M-W Next         ^F Forward       ^▸ Next Word
